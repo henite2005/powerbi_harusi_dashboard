@@ -1,5 +1,6 @@
 🎯 **Wedding Venues Dashboard**
 
+
 🎯 1. Overview
 
 👉The Wedding Venue Dashboard provides a data-driven view of wedding venues across East African countries. 
@@ -30,6 +31,7 @@
 👉Identify high-performing and underperforming venues.
 
 👉Enhance decision-making through predictive and comparative insights.
+
 
 
 🎯 4. Key Performance Indicators (KPIs)
@@ -74,6 +76,10 @@
 👉If you are interested in the Wedding Venues Dashboard, please let's get in touch via this email address - henite2005@gmail.com
 
 👉Please submit issues, feature requests, or suggestions via email - henite2005@gmail.com
+
+👉Please request the raw files to henite2005@gmail.com 
+
+👉You can also report bugs or feature suggestions to henite2005@gmail.com
 
 
 ![Harusi-5](https://github.com/user-attachments/assets/4d055ec7-e34e-43ba-b3bb-fac23aa23c13)
