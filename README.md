@@ -1,12 +1,15 @@
 🎯 **Wedding Venues Dashboard**
 
-![Harusi-1](https://github.com/user-attachments/assets/75d6fe29-ae20-428d-a2c8-9ca86dc335b6)
-
 🎯 1. Overview
 
 👉The Wedding Venue Dashboard provides a data-driven view of wedding venues across East African countries. 
 
 👉It consolidates key metrics like bookings, revenue, customer satisfaction, and operational efficiency to empower decision-makers with real-time insights and trends.
+
+
+![Harusi-1](https://github.com/user-attachments/assets/b55004d0-f8c2-4fcf-bb03-bb0a4e5a8dd3)
+
+
 
 🎯 2. Problem Statement
 
@@ -19,20 +22,32 @@
 🎯 3. Objectives
 
 👉Track and visualize bookings by location, country, and season.
+
 👉Evaluate profit margins and flat pricing strategies.
+
 👉Monitor customer satisfaction and churn rates.
+
 👉Identify high-performing and underperforming venues.
+
 👉Enhance decision-making through predictive and comparative insights.
+
 
 🎯 4. Key Performance Indicators (KPIs)
 
 👉Total Bookings
+
 👉Available Wedding Slots
+
 👉Flat Price (converted to USD)
+
 👉Profit & Sales Margins
+
 👉Customer Satisfaction Rate
+
 👉Churn Rate
+
 👉Wedding Booking & Cancellation Rates
+
 👉Venue Performance by Country & Location
 
 ![Harusi-3](https://github.com/user-attachments/assets/92b823b6-68a2-4b9d-a071-cf0b56e7f80f)
@@ -40,10 +55,15 @@
 🎯 5. Dashboard Sections
 
 👉Overview Page – Summary KPIs and national performance
+
 👉Venue Performance – Flat price, bookings, profit per venue
+
 👉Customer Analytics – Satisfaction, churn, and booking rates
+
 👉Profit Insights – Morphic bar charts and sales breakdown
+
 👉Booking Trends – Location/country-based slot tracking
+
 👉Cancellation Summary – Rate of cancellations and total losses
 
 
@@ -52,6 +72,7 @@
 🎯 6. Feedback & Suggestions
 
 👉If you are interested in the Wedding Venues Dashboard, please let's get in touch via this email address - henite2005@gmail.com
+
 👉Please submit issues, feature requests, or suggestions via email - henite2005@gmail.com
 
 
