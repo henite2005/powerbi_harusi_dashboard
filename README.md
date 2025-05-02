@@ -3,6 +3,7 @@
 🎯 Wedding Venues Dashboard
 
 🎯 1. Overview
+
 👉The Wedding Venue Dashboard provides a data-driven view of wedding venues across East African countries. 
 👉It consolidates key metrics like bookings, revenue, customer satisfaction, and operational efficiency to empower decision-makers with real-time insights and trends.
 
